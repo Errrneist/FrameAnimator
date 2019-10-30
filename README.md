@@ -11,7 +11,7 @@
 
 ## Introduction
 * First, go into your render setting and make sure the settings are properly set.
-* <img align="right" src="https://github.com/Errrneist/FrameAnimator/blob/master/img/settings.png" alt="Settings" width="700">
+* <img align="center" src="https://github.com/Errrneist/FrameAnimator/blob/master/img/settings.png" alt="Settings" width="500">
 * Also make sure render cameras are properly set in Arnold render view.
 * Then select "Rendering" workspace, find "Render Sequence" tab under "Render" dropdown.
 * Then you will obtain a folder with pngs. 
